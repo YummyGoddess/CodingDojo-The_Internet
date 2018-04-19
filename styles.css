@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+body {
+  margin: 10px 60px;
+}
+
+img {
+  width: 100px;
+  display: inline;
+}
+.wrapper {
+  width: 970px;
+}
+.lowerHead {
+  background-color: blue;
+  background-image: url("images/gradient2.jpg");
+  background-repeat: no-repeat;
+  color: white;
+  width: 100%;
+  height: 50px;
+  padding-top: 30px;
+}
+
+
+.phone_logo {
+  width: 50px;
+}
+.leftText {
+  vertical-align: top;
+}
+.rightText {
+  align: right;
+}
+
+
+.main {
+  display: inline-block;
+
+}
+.aquaText {
+  color: #00B2FF;
+}
+
+.client_server {
+  width: 300px;
+  align-content: center;
+  margin-top: 15px;
+}
+.sideBar {
+  display: inline-block;
+  width: 100px;
+  margin:0px 50px 10px 5px;
+  vertical-align: top;
+}
+.matrix {
+  margin-top: 25px;
+}
+.article {
+  display: inline-block;
+  width: 400px;
+  margin: 0px 0px 10px 100px;
+}
